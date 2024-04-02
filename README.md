@@ -1,4 +1,5 @@
 # RareFinder
+![Screenshot 2024-04-01 200852](https://github.com/DARKSTONE-LABS/RareFinder/assets/141037846/d538ca0b-65e2-4dd7-8221-21fff994d64f)
 
 RareFinder is a Python application with a graphical user interface (GUI) built using Tkinter. It allows users to download directories containing JSON files from a specified base URL and then search for specific keywords within those JSON files.
 
